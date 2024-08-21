@@ -29,15 +29,32 @@
     }
   ],
   "comments": [
-    {
+        {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
+    },
+    {
+      "id": 3,
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
     }
   ],
   "profile": {
