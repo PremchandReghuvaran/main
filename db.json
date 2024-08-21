@@ -11,11 +11,21 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
     }
   ],
   "comments": [
