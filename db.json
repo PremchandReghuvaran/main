@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "vehicleTypes": [
     {
       "id": 1,
-      "title": "Post 1"
+      "weightCapacity": 1.4,
+      "volumeCapacity": 381.357,
+      "length": 2700,
+      "width": 1600,
+      "height": 2500,
+      "typeName": "DOST"
     },
     {
       "id": 2,
